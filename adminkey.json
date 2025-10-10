@@ -1,0 +1,6 @@
+{
+  "server": "primedigitalstore.online",
+  "server_port": 41749,
+  "method": "chacha20-ietf-poly1305",
+  "password": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTQ4NjVJeFFTbVpFZWZhMldUcUNT"
+}
