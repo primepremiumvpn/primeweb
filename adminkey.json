@@ -1,6 +1,7 @@
 {
+  "name": "Singapore VPN Node 01",
   "server": "159.89.203.130",
   "server_port": 41749,
-  "method": "ChaCha20-IETF-Poly1305",
-  "password": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTQ4NjVJeFFTbVpFZWZhMldUcUNT"
+  "password": "Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTQ4NjVJeFFTbVpFZWZhMldUcUNT",
+  "method": "chacha20-ietf-poly1305"
 }
